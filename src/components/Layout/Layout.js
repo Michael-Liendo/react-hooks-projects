@@ -10,7 +10,7 @@ const Layout = () => {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/useCallback">useCallback</Link>
+            <Link to="/useState">useState</Link>
           </li>
         </ul>
       </nav>
