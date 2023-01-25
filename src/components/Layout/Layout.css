@@ -1,0 +1,7 @@
+#navbar ul {
+  display: flex;
+}
+
+#navbar li {
+  margin: 0 1rem 0;
+}
