@@ -2,7 +2,7 @@ import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout/Layout';
 import Index from './pages/Index';
-import UseState from './pages/useState';
+import UseState from './pages/useState/useState';
 
 function App() {
   return (
