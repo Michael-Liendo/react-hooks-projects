@@ -5,3 +5,7 @@
 #navbar li {
   margin: 0 1rem 0;
 }
+
+#navbar li a {
+  color: #f0ffff;
+}
