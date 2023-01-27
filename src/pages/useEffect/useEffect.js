@@ -65,7 +65,7 @@ export default function UseEffect() {
         {weatherData?.current_weather?.temperature} °C
       </span>
       <span className="time">
-        {new Date(weatherData?.current_weather.time).toLocaleDateString()}
+        {new Date(weatherData?.current_weather?.time).toLocaleDateString()}
       </span>
     </div>
   );
