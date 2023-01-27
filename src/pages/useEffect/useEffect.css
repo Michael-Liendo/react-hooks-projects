@@ -1,0 +1,31 @@
+#form {
+  text-align: center;
+}
+#form label {
+  font-size: 40px;
+  display: block;
+  margin-bottom: 25px;
+}
+
+#form input {
+  padding: 0.3rem;
+  width: 20%;
+}
+
+.lat-lon {
+  text-align: center;
+  display: block;
+  margin: 20px 0;
+}
+
+.temperature {
+  display: block;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.time {
+  display: block;
+  font-size: x-large;
+  text-align: center;
+}

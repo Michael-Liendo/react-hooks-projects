@@ -12,6 +12,9 @@ const Layout = () => {
           <li>
             <Link to="/useState">useState</Link>
           </li>
+          <li>
+            <Link to="/useEffect">useEffect</Link>
+          </li>
         </ul>
       </nav>
 
